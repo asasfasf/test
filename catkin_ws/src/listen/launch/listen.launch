@@ -1,0 +1,3 @@
+<launch>
+    <node name="listen_node" pkg="listen" type="listen_node" output="screen"/>
+</launch>
